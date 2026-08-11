@@ -1,16 +1,74 @@
-# React + Vite
+# 📝 Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Notes App** built with **React.js** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+This project was created to practice React fundamentals such as **components, props, state management, event handling, and dynamic list rendering**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Project Preview
 
-## React Compiler
+<img width="1680" height="1050" alt="Screenshot 2026-08-11 at 8 37 34 PM" src="https://github.com/user-attachments/assets/535a8db7-93b9-4155-8c5a-93090dda140d" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new notes with a heading and details
+- Display recently added notes
+- Delete notes
+- Dynamic rendering using React
+- Responsive layout using Tailwind CSS
+- Component-based React structure
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- Vite
+
+## 📂 Component Structure
+
+```text
+src/
+├── App.jsx
+├── components/
+│   ├── AddNote.jsx
+│   ├── NotesList.jsx
+│   └── NoteCard.jsx
+└── assets/
+    └── notes.png
+
+🧠 React Concepts Practiced
+
+useState
+
+Props
+
+Component creation
+
+Event handling
+
+Form handling
+
+map() for dynamic rendering
+
+State updates
+
+Passing functions between components
+
+▶️ Run Locally
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Then open the local URL shown in your terminal.
+
+🎯 Purpose
+
+This is a beginner-friendly React project focused on learning how to build a UI with reusable components and manage data using React state and props.
+
+Made with React and Tailwind CSS.
