@@ -19,7 +19,7 @@ const AddNote = ({ title, setTitle, details, setDetails, submitHandler }) => {
 
         <textarea
           placeholder="Enter Details"
-          className="px-5 font-medium w-full h-32 py-2 border-2 outline-none rounded"
+          className="px-5 font-medium w-full h-62 py-2 border-2 outline-none rounded"
           value={details}
           onChange={(e) => setDetails(e.target.value)}
         />
