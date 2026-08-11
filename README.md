@@ -6,7 +6,8 @@ This project was created to practice React fundamentals such as **components, pr
 
 ## 📸 Project Preview
 
-<img width="1680" height="1050" alt="Screenshot 2026-08-11 at 8 37 34 PM" src="https://github.com/user-attachments/assets/535a8db7-93b9-4155-8c5a-93090dda140d" />
+<img width="1680" height="1050" alt="Screenshot 2026-08-11 at 8 38 39 PM" src="https://github.com/user-attachments/assets/dbaf87b3-1f48-42fa-977b-8e0b408733c1" />
+
 
 
 ## 🚀 Features
@@ -37,28 +38,22 @@ src/
 └── assets/
     └── notes.png
 
-🧠 React Concepts Practiced
+## 🧠 React Concepts Practiced
 
-useState
+- `useState`
+- Props
+- Component creation
+- Event handling
+- Form handling
+- `map()` for dynamic rendering
+- State updates
+- Passing functions between components
 
-Props
-
-Component creation
-
-Event handling
-
-Form handling
-
-map() for dynamic rendering
-
-State updates
-
-Passing functions between components
-
-▶️ Run Locally
+## ▶️ Run Locally
 
 Install dependencies:
 
+```bash
 npm install
 
 Start the development server:
