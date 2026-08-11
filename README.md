@@ -33,7 +33,6 @@ src/
 ├── App.jsx
 ├── components/
 │   ├── AddNote.jsx
-│   ├── NotesList.jsx
 │   └── NoteCard.jsx
 └── assets/
     └── notes.png
