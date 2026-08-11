@@ -36,6 +36,7 @@ src/
 │   └── NoteCard.jsx
 └── assets/
     └── notes.png
+```
 
 ## 🧠 React Concepts Practiced
 
